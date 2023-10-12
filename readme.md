@@ -29,8 +29,8 @@
 `source venv/bin/activate` // MacOs  
 `venv\Scripts\activate` // Windows  
 В виртуальное окружение установить:  
-Python version 3.9.9  
-Django version 4.0.1  
+Python 
+Django 
 1. Установить библиотеку bootstrap4  
 `pip install django-bootstrap4`  
 2. Установить пакет allauth  
@@ -53,9 +53,9 @@ Django version 4.0.1
 
 
 
-Автор проекта: **Ерастов Алексей Сергеевич**  
-e-mail: a.erastov@gmail.com  
-Группа SkillFactory: FPW-36  
-Москва, февраль 2022г.
+Автор проекта: **Романов Егор Николаевич**  
+e-mail: ieghor.romanov.92@mail.ru  
+Группа SkillFactory: FPW-120  
+Волгоград, октябрь 2023г.
 
  
